@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117657719373",
+    "project_id": "trendy-bb053",
+    "storage_bucket": "trendy-bb053.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117657719373:android:8303076021e4906e0e4204",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXedgkkaA0Njb3f3gqLKEm4dxSnOzMUAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
